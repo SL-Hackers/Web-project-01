@@ -40,7 +40,7 @@
 
  
 
-  <img src="/Image/project1.jpg" width="350" height="380">
+  <img src="project1.jpg" width="350" height="380">
 
   
 
